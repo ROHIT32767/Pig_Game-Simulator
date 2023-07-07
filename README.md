@@ -1,3 +1,5 @@
+### Pig-Game Simulator
+#### [Play](https://enchanting-pudding-d2d2a1.netlify.app/)
 ```
 About Game: In this game, User Interface (UI) contains user/player that can do three things, they are as follows:
 
